@@ -1,34 +1,8 @@
 前言
 =====
 
-.. _installation:
-
-Installation
-------------
-
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
-
-Creating recipes
-----------------
-
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
-
-.. autofunction:: lumache.get_random_ingredients
-
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
-
-.. autoexception:: lumache.InvalidKindError
-
-For example:
-
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+To 亲爱的书掂用户：
+感谢您对书掂的支持，在茫茫人海中选择了我们。对于互联网创业者而言，没有什么比用户的时间更加珍贵。您愿意抽出宝贵的时间使用我们的产品，我们不胜荣幸。
+在这个快节奏的摩登时代，静下心来阅读一本书，学习一本书，似乎都是一种"奢侈"。书掂能为您做的，便是尽量帮您节省一点点时间，哪怕是几小时、几分钟，为您梳理好书本脉络、整理好书本知识，让时间不再是阻碍您自我提升的绊脚石。
+书掂能帮助您降低任何一本书的学习门槛，不论是您在工作中需要快速学习某个新领域的知识，还是您对某个领域有着浓厚兴趣但对专业书籍感到无从读起，书掂都能够帮到您。借助大语言模型，书掂为您直观呈现书本内在逻辑，为您重新讲解书本知识点，为您准备书本自测题。我们的最终愿景是，让每个人都可以成为自己的博物学家。
 
