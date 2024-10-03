@@ -19,5 +19,4 @@ Contents
 .. toctree::
 
    前言
-   usage
-   api
+   使用方法

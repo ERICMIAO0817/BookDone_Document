@@ -1,16 +1,13 @@
-Usage
+使用方法
 =====
 
-.. _installation:
+.. 登入书掂:
 
-Installation
+登入书掂
 ------------
 
-To use Lumache, first install it using pip:
+请您查看您的邮箱，是否收到来自bookdone.org@outlook.com的邮件。我们会将用户的专属密钥发放至您的邮箱中，通过此密钥登入书掂。
 
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 Creating recipes
 ----------------
