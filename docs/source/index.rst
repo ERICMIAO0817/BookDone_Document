@@ -18,6 +18,6 @@ Contents
 
 .. toctree::
 
+   前言
    usage
    api
-   前言
