@@ -17,14 +17,6 @@
 
 <示意图>
 
-- 下面是一些可以找电子书的渠道
-  * TG群组 sharebooks4you
-    * https://web.telegram.org/k/#@sharebooks4you
-  * Zlibrary
-    * https://singlelogin.re/
-  * 24h搜书
-    * https://24hbook.com/
-
 上传完毕后，网页会提示上传成功或上传失败，如若遇到上传失败，可能是书本某章节字数过多超出限制，请您换一本书进行尝试。
 
 <示意图1-success>
