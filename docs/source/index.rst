@@ -1,17 +1,21 @@
 书掂文档
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+书掂，一款AI学练阅读器。
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+书掂是首个以信息无损为目标，为用户高效个性化学习赋能的产品。通过语言大模型技术，书掂将复杂文本转化为动态结构，构建个性化的阅读学练生态。
+
+<章节树示意>
+
+<知识点示意>
+
+<自测题示意>
+
+查看 :doc:`使用方法` 部分，了解如何使用本产品。
 
 .. note::
 
-   This project is under active development.
+   书掂仍在快速迭代中，请持续关注~
 
 Contents
 --------
