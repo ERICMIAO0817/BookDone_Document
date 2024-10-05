@@ -6,7 +6,7 @@
 登入书掂
 ------------
 
-请您查看您的邮箱，是否收到来自 bookdone.org@outlook.com 的邮件。我们会将用户的专属密钥发放至您的邮箱中，通过此密钥登入书掂。
+请您查看您的邮箱，是否收到来自 bookdone.org@163.com 的邮件。我们会将用户的专属密钥发放至您的邮箱中，通过此密钥登入书掂。
 
 .. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241005234828952.png
 
@@ -71,3 +71,5 @@
 .. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241006000427586.png
 
 .. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241006000510076.png
+
+.. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241006000857944.png
