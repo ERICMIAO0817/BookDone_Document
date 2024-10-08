@@ -13,11 +13,11 @@
 
 **自生成知识点示意**
 
-.. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241005225200608.png
+.. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241005225600639.png
 
 **自测题示意**
 
-.. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241005225600639.png
+.. image:: https://4myblog.oss-cn-beijing.aliyuncs.com/img/image-20241005225200608.png
 
 查看 :doc:`使用方法` 部分，了解如何使用本产品。
 
